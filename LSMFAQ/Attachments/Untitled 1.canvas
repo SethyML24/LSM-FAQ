@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4ac4dfce5d52a06d","x":-800,"y":-1080,"width":1062,"height":1147,"color":"4","type":"file","file":"FAQDraft/Cyberfire LSM FAQ doc.md"},
+		{"id":"1959fee4f845b807","x":813,"y":-694,"width":1787,"height":1454,"type":"file","file":"FAQDraft/lsm_guide.md"}
+	],
+	"edges":[]
+}
