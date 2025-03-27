@@ -9,6 +9,8 @@ Please find the deployments documentation below.
 
 [Get to know our clients](https://nclose365.sharepoint.com/:w:/r/sites/NviewMDR131/_layouts/15/Doc.aspx?sourcedoc=%7BCE70C535-B276-4F1A-97AA-4F9EC8B2D184%7D&file=Getting%20to%20know%20our%20Clients.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
+[How to do Pipedrop Investigations](https://github.com/SethyML24/LSM-FAQ/blob/main/LSMFAQ/FAQDraft/PipeDropInvestigations)
+
 **Frequently Asked Questions**
 
 1. On the alert queue, always work from oldest to newest
