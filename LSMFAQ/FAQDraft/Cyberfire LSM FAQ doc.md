@@ -55,7 +55,7 @@ Last log:
 Details: After reviewing the logs for the last 7 days we identified that logs stopped ingesting for this host.
 ```
 
-16. To find the engineer on LSM escalations for review in the current week, please check on the LSM deployments channel under the pinned tab.
+16. To find the engineer LSM escalations roster when doing reviews for the current week, please check on the LSM deployments channel under the pinned tab to check who the escalations engineer is and tag them in your reviews.
 	![Alt text](https://github.com/SethyML24/LSM-FAQ/blob/main/LSMFAQ/Attachments/Pasted%20image%2020250325155529.png)
 
 18. Always tag for reviews, if no one reviews your draft, tag them again
