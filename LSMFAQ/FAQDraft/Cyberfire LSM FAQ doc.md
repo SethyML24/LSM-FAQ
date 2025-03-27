@@ -13,7 +13,7 @@ Please find the deployments documentation below.
 
 2. On the alert queue, when you see a **Vsphere LSM** check on Kibana if logs are ingesting either via IP or FQDN(Google it)
 
-	 You can check the IP address of any Vpshere LSM by utilizing the Messages Tab.
+	 You can check the IP address of any Vpshere LSM by utilizing the Messages fields.
 
  **Stops ingesting via IP**
 	![Alt text](https://github.com/SethyML24/LSM-FAQ/blob/main/LSMFAQ/Attachments/FAQVpshere1.png)
