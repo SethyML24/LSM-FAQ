@@ -36,13 +36,13 @@ Please find the deployments documentation below.
 
 6. When asking question provide all the necessary information to make answering the question as easy as possible, example, relevant links & case numbers, etc.
 
-7. Always message CS via slack when you need them to follow up with a client after 2 consecutive follow ups with no response from client, always give them the LSM case number.
+7. When escalating to CS, do so via outlook and cc customersuccess and the relevant CS person for the client you are doing an LSM case for, please refer to the getting to know your client document above.
 
 8. Always check the relevant comms platforms, outlook, slack & github for any information on a specific **host/index & logsource** on open LSMs to assist in the remediation thereof. This includes previous cases sharing the same or similar details of any new open cases, previously logged gits and checking email threads and slack channels etc.
 
 9. Do not share kibana links without a filter applied for 30 days or higher, you could risk slowing or breaking the cluster
 
-10. When needing to escalate or request assistance on a case, please ensure that you include all relevant information on that case in your query, this includes links, case numbers & other relevant comms and information.
+10. When needing to escalate or request assistance on a case, please ensure that you include all relevant information on that case in your query, this includes links, case numbers & other relevant comms and information. 
 
 11. If not sure if something requires a git or mail check the following. Check the Meta Data tab on cyberfire, under Product/Data and Information in the Sources Tab
 	![Alt text](https://github.com/SethyML24/LSM-FAQ/blob/main/LSMFAQ/Attachments/CyberfireAPIInfor1%201.png)
@@ -87,8 +87,6 @@ Details: After reviewing the logs for the last 7 days we identified that logs st
 
 22.  If you aren't sure, ask someone, in the case of an LSM, best to ask a client to confirm instead of assuming
 
-23.  
-
 # FYI
 ### Motuscorp
 
@@ -125,9 +123,6 @@ pra-tst-is-las1
 lxacademy-staging2
 lxacademy2
 ```
-
-
-
 #### Authors
 Kyle Hariparsaad &
 Seth Lackay
