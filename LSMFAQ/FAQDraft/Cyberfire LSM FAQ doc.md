@@ -129,5 +129,5 @@ lxacademy2
 
 
 #### Authors
-Kyle Hariparsaad
+Kyle Hariparsaad &
 Seth Lackay
