@@ -42,7 +42,7 @@ Please find the deployments documentation below.
 
 10. When needing to escalate or request assistance on a case, please ensure that you include all relevant information on that case in your query, this includes links, case numbers & other relevant comms and information. 
 
-11. If not sure if something requires a git or mail check the following. Check the Meta Data tab on cyberfire, under Product/Data and Information in the Sources Tab
+11. If not sure if something requires a git or mail check the following. Check the Meta Data tab on cyberfire, under Product/Data and Information in the Sources Tab, logs sources that ingest using API usually require a git logged.
 	![Alt text](https://github.com/SethyML24/LSM-FAQ/blob/main/LSMFAQ/Attachments/CyberfireAPIInfor1%201.png)
 
 13. Also check on Github on the closed cases for log source missing.
