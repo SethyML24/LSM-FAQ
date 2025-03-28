@@ -51,9 +51,13 @@ Please find the deployments documentation below.
 15. On cyberfire, please ensure that you include any relevant information for you cases In the notes and Description fields, this should include the following cyberfire details template as shown below.     
 ```
 Kibana URL:
+
 Log source:
+
 Log type:
+
 Last log:
+
 Details: After reviewing the logs for the last 7 days we identified that logs stopped ingesting for this host.
 ```
 
