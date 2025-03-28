@@ -9,6 +9,8 @@ Please find the deployments documentation below.
 
 [Get to know our clients](https://nclose365.sharepoint.com/:w:/r/sites/NviewMDR131/_layouts/15/Doc.aspx?sourcedoc=%7BCE70C535-B276-4F1A-97AA-4F9EC8B2D184%7D&file=Getting%20to%20know%20our%20Clients.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
+[Client Share](https://nclose365.sharepoint.com/sites/NviewMDR131/Shared%20Documents/Forms/AllItems.aspx?ct=1739964766325&or=OWA%2DNT%2DMail&ga=1&viewid=0e78b57f%2D2f6b%2D4cb6%2D9c4c%2D81ca4bc782f0)
+
 **Frequently Asked Questions & General LSM Workflow guide**
 
 1. On the alert queue, always work from oldest to newest
