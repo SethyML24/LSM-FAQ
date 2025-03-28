@@ -9,7 +9,7 @@ Please find the deployments documentation below.
 
 [Get to know our clients](https://nclose365.sharepoint.com/:w:/r/sites/NviewMDR131/_layouts/15/Doc.aspx?sourcedoc=%7BCE70C535-B276-4F1A-97AA-4F9EC8B2D184%7D&file=Getting%20to%20know%20our%20Clients.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
-**Frequently Asked Questions**
+**Frequently Asked Questions & General LSM Workflow guide**
 
 1. On the alert queue, always work from oldest to newest
 
