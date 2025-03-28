@@ -1,4 +1,4 @@
-# **LSM FAQ**
+# **Frequently Asked Questions & General LSM Workflow guide**
 
 # Sharepoint links
 Please find the deployments documentation below.
